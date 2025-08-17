@@ -1,7 +1,7 @@
 # maml-dqn-satellite-tasking
 AI - Project - MAML DQN satellite tasking. Transfer from Low Earth Orbit to Lunar Orbit with Few-shot learning
 
-Code and artifacts for **"Rapid Adaptation of Satellite Tasking Policies from LEO to Lunar Orbit using Deep Q-Networks and Model-Agnostic Meta-Learning"** (SGAI submission).
+Code and artifacts for **"Rapid Adaptation of Satellite Tasking Policies from LEO to Lunar Orbit using Deep Q-Networks and Model-Agnostic Meta-Learning"** .
 
 ## Repro quickstart
 ```bash
