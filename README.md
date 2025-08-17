@@ -12,6 +12,4 @@ conda activate maml-dqn-sat
 "https://github.com/AVSLab/basilisk"
 "https://github.com/AVSLab/bsk_rl"
 
-# Run meta-training and adaptation
-bash scripts/run_leo_meta_training.sh
-bash scripts/run_lunar_adaptation.sh
+
